@@ -5,7 +5,7 @@
 Welcome to my portfolio.
 
 This webpage was built and designed by me to display my 
-past projects -- *will add soon* --. 
+past projects. 
 
 ![portfolio_page](/assets/images/portfolio_page.png)
 
@@ -32,7 +32,7 @@ where you can sumbit your name, email, and a message.
 ## Credits
 
 **Jerry Leong**
-jerry.leong20@gmail.com
+jerleong20@gmail.com
 
 ## License
 
